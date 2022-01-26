@@ -1,0 +1,11 @@
+h2 {
+    color: #520000;
+}
+
+a {
+    color: white;
+    background-color: #520000;
+}
+a:hover {
+    background-color: #c50000;
+}
